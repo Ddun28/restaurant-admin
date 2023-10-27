@@ -1,0 +1,16 @@
+body{
+    background: #424e5a;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color{
+    background-color: #a2b1be;
+}
+
+.show-notification {
+    display: block;
+  }
